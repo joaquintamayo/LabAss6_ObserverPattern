@@ -33,3 +33,4 @@ In your solution you must provide the following in your Github link account:
 * UML Class Diagram
 * Uploaded java codes for the solution.
 
+![ObserverPatten UML Class Diagram](https://github.com/user-attachments/assets/34e312dd-7339-4939-b8b6-7990dafdbf98)
